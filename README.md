@@ -16,4 +16,4 @@ This project analyzes Super Store sales data using Excel.
 
 ## Files Included
 - SuperStore_Data.xlsx
-- 
+- Superstore sales data_dashboard.png
